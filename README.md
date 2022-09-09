@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albi Mudakar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Programming**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operasi System Linux.**
 
