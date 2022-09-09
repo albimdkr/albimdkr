@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operasi System Linux.**
+- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operation System Linux.**
 
-- 🤝 I’m looking for help with **Java GUI**
+- 🤝 I’m looking for help with **Java Graphica Usert Interface Netbeans**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albimdkr/project-halaman134.git](https://github.com/albimdkr/project-halaman134.git)
 
