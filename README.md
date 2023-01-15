@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Html**
 
-- 👨‍💻 All of my projects are available at [https://github.com/albimdkr/project-halaman134.git](https://github.com/albimdkr/project-halaman134.git)
+- 👨‍💻 All of my projects are available at kelompok8-21c-jarkom.my.id
 
 - 💬 Ask me about **Frontend**
 
