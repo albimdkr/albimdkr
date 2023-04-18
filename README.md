@@ -15,16 +15,20 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
 - 🎓 I’m Studying in **Sekolah Tinggi Teknologi Bandung**
+
 - 💻 I’m currently working on **Freelancer**
-- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operation System Linux.**
-- 🤝 I’m looking for help with **Html**
-- 👨‍💻 All of my projects are available at [kelompok8-21c-jarkom.my.id](https://kelompok8-21c-jarkom.my.id)
-- 💬 Ask me about **Frontend**
+
+- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operation System Linux and Networking.**
+
+- 🤝 I’m looking for help with **Html, CSS and JavaScript**
+
+- 👨‍💻 All of my projects are available at on my repository
+
 - 📫 How to reach me **albimudakar03@gmail.com**
+
 - ⚡ Fun fact **I think i like share experience and sharing about knowlodge programming.**
-- ⚡ A passionate Self-taught Front-end developer
-- ⚡ Self-taught Back-end Developer
 
 
 <br><br>
@@ -135,7 +139,7 @@
 <img src="https://img.shields.io/badge/twitter: AlbiMudakar-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
-<a href="mailto:albimudakar08@gmail.com" target="_blank">
+<a href="mailto:albimudakar03@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  AlbiMudakar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
