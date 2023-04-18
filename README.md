@@ -15,11 +15,17 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+- 🎓 I’m Studying in **Sekolah Tinggi Teknologi Bandung**
+- 💻 I’m currently working on **Freelancer**
+- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operation System Linux.**
+- 🤝 I’m looking for help with **Html**
+- 👨‍💻 All of my projects are available at [kelompok8-21c-jarkom.my.id](https://kelompok8-21c-jarkom.my.id)
+- 💬 Ask me about **Frontend**
+- 📫 How to reach me **albimudakar03@gmail.com**
+- ⚡ Fun fact **I think i like share experience and sharing about knowlodge programming.**
+- ⚡ A passionate Self-taught Front-end developer
+- ⚡ Self-taught Back-end Developer
 
-- A passionate Self-taught Front-end developer
-- Self-taught Back-end Developer
-- Currently learning Web Development by Self
-- Never stop learnig something new
 
 <br><br>
 
