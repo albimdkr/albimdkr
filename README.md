@@ -5,6 +5,7 @@
 </p>
 
 ## <picture></picture> **About me**
+[![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
@@ -14,15 +15,15 @@
 
 - 💻 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Html, Css, Javascript, React and than learn the Operation System Linux and Networking.**
+- 🌱 I’m currently learning **Html, CSS, Javascript, React, and then learn the Operation System Linux and Networking.**
 
 - 🤝 I’m looking for help with **Html, CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at on my repository
+- 👨‍💻 All of my projects are available on my repository
 
-- 📫 How to reach me **albimudakar03@gmail.com**
+- 📫 How to reach me **albimudakar04@gmail.com**
 
-- ⚡ Fun fact **I think i like share experience and sharing about knowlodge programming.**
+- ⚡ Fun fact **I think I like sharing experiences and sharing about knowledge programming.**
 
 
 <br>
@@ -45,7 +46,8 @@
 
 
 <br>
-<br>
+<be>
+
 
 ## <b align='center'> Let's Connect With Me</b>
 <br>
