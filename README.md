@@ -5,7 +5,6 @@
 </p>
 
 ## <picture></picture> **About me**
-[![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
@@ -44,9 +43,8 @@
 </div>
 <br>
 
-
+[![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
 <br>
-<be>
 
 
 ## <b align='center'> Let's Connect With Me</b>
@@ -61,7 +59,7 @@
 <img src="https://img.shields.io/badge/twitter: AlbiMudakar-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
-<a href="mailto:albimudakar03@gmail.com" target="_blank">
+<a href="mailto:albimudakar04@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  AlbiMudakar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
