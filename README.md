@@ -16,6 +16,12 @@
 </a>
 </div>
 
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=transparent&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+</div>
+
+
+
 <br>
 
 [![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
