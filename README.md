@@ -43,9 +43,9 @@
 
 <details>
 <summary>About</summary>
-- 🌱 I’m currently learning Web Development, Cloud Computing<br>
-- 🤝 I’m looking for help with HTML, CSS, JavaScript, Java, Cloud Computing <br>
-- 👨‍💻 All of my projects are available on my repository <br>
-- 📫 How to reach me albimudakar04@gmail.com <br>
-- ⚡ Fun facts like sharing experiences and knowledge programming.<br>
+🌱 I’m currently learning Web Development, Cloud Computing<br>
+🤝 I’m looking for help with HTML, CSS, JavaScript, Java, Cloud Computing <br>
+👨‍💻 All of my projects are available on my repository <br>
+📫 How to reach me albimudakar04@gmail.com <br>
+⚡ Fun facts like sharing experiences and knowledge programming.<br>
 </details>
