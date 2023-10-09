@@ -24,11 +24,14 @@
 <summary>Stats</summary>
 <div align="center">
 <a href="https://github.com/albimdkr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albimdkr&show_icons=true&theme=dark&title_color=186F65&icon_color=186F65" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albimdkr&show_icons=true&card_width=484&theme=dark&title_color=186F65&icon_color=186F65" />
 </a>
-<a href="https://github.com/albimdkr/convoychat">
+
+<!-- <a href="https://github.com/albimdkr/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albimdkr&layout=compact&langs_count=8&card_width=350&show_icons=true&theme=dark&title_color=186F65&icon_color=186F65" />
-</a>
+</a> -->
+
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=vue-dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=161616)](https://git.io/streak-stats)
 
@@ -36,8 +39,6 @@
 <br>
 
 [![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
-<be>
-
 </details>
 
 <details>
