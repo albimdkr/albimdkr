@@ -33,7 +33,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=vue-dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=161616)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=vue-dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=151515&fire=FF5700&currStreakNum=FFFFFF&ring=186F65&sideNums=186F65&dates=FFFFFF&currStreakLabel=186F65&sideLabels=186F65&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 <br>
