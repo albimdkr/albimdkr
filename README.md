@@ -14,11 +14,12 @@
 <a href="https://github.com/albimdkr/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albimdkr&layout=compact&langs_count=8&card_width=400&show_icons=true&theme=dark&title_color=2f80ed&icon_color=2f80ed" />
 </a>
+
 </div>
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=transparent&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=transparent&border_radius=5.5&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+
 
 
 
