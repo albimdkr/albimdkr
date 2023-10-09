@@ -15,9 +15,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albimdkr&layout=compact&langs_count=8&card_width=400&show_icons=true&theme=dark&title_color=2f80ed&icon_color=2f80ed" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=transparent&border_radius=5.5&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=albimdkr&theme=transparent&border_radius=5.5&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 
 
 
@@ -37,14 +38,14 @@
 - 🤝 I’m looking for help with HTML, CSS, JavaScript, Java, Cloud Computing <br>
 - 👨‍💻 All of my projects are available on my repository <br>
 - 📫 How to reach me albimudakar04@gmail.com <br>
-- ⚡ Fun fact like sharing experiences and knowledge programming.<br>
+- ⚡ Fun facts like sharing experiences and knowledge programming.<br>
 </details>
 
 
 
 <details>
 <summary>Connect</summary>
-<div align='center'>
+<div align="center">
 <a href="https://www.linkedin.com/in/albi-mudakar-nasyabi-1970a6225" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  AlbiMudakar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
