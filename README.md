@@ -20,6 +20,9 @@
   </div>
 </header>
 
+
+
+
 <details>
 <summary>Stats</summary>
 <div align="center">
@@ -38,7 +41,8 @@
 </div>
 <br>
 
-[![An image of @albimdkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
+[![@albimdkr Holopin board](https://holopin.me/albimdkr)](https://holopin.io/@albimdkr)
+
 </details>
 
 <details>
@@ -49,3 +53,5 @@
 📫 How to reach me albimudakar04@gmail.com <br>
 ⚡ Fun facts like sharing experiences and knowledge programming.<br>
 </details>
+
+
