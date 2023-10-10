@@ -85,10 +85,10 @@
 
 <!-- Background -->
 <g clip-path="url(#clip0_8_62)">
-<rect width="896" height="288" fill="url(#paint0_linear_8_62)" />
+<rect width="896" height="288" fill="url(#paint0_linear_8_62)" /> <!-- color linear -->
 <mask 
     id="mask0_8_62" 
-    style="mask-type: alpha" 
+    style="mask-type:alpha" 
     maskUnits="userSpaceOnUse" 
     x="0" 
     y="0" 
@@ -96,15 +96,18 @@
     height="288"
 >
 
-<path d="M0 32C0 14.3269 14.3269 0 32 0H864C881.673 0 896 14.3269 896 32V288H0V32Z" fill="white"/> <!-- line -->
+<path d="M0 32C0 14.3269 14.3269 0 32 0H864C881.673 0 896 14.3269 896 32V288H0V32Z" fill="black"/>
 
-<path d="M896 0H0V288H896V0Z" fill="url(#paint1_linear_8_62)"/>
+
+<rect width="896" height="288" fill="url(#paint1_linear_8_62)" /> <!-- color linear -->
+</mask>
+
 </mask>
 
 <rect width="896" height="288" fill="url(#paint2_linear_8_62" />
 <g mask="url(#mask0_8_62)">
     <path  d="M32.5001 0V288M64.5001 0V288M96.5001 0V288M128.5 0V288M160.5 0V288M192.5 0V288M224.5 0V288M256.5 0V288M288.5 0V288M320.5 0V288M352.5 0V288M384.5 0V288M416.5 0V288M448.5 0V288M480.5 0V288M512.5 0V288M544.5 0V288M576.5 0V288M608.5 0V288M640.5 0V288M672.5 0V288M704.5 0V288M736.5 0V288M768.5 0V288M800.5 0V288M832.5 0V288M864.5 0V288M0 31.5H896M0 63.5H896M0 95.5H896M0 127.5H896M0 159.5H896M0 191.5H896M0 223.5H896M0 255.5H896" 
-    stroke="white" 
+    stroke="black" 
     stroke-opacity="0.07" 
     stroke-dasharray="5 5"
   />
@@ -140,7 +143,7 @@
     <circle cx="373" cy="215" r="3" fill="#186F65" />
   </g>
   <g class="additional__text">
-    <path d="M373 220C375.761 220 378 217.761 378 215C378 212.239 375.761 210 373 210C370.239 210 368 212.239 368 215C368 217.761 370.239 220 373 220Z" fill="#FCFBFF"/>
+    <path d="M373 220C375.761 220 378 217.761 378 215C378 212.239 375.761 210 373 210C370.239 210 368 212.239 368 215C368 217.761 370.239 220 373 220Z" fill="#334155"/> 
     <path d="M373 218C374.657 218 376 216.657 376 215C376 213.343 374.657 212 373 212C371.343 212 370 213.343 370 215C370 216.657 371.343 218 373 218Z" fill="#186F65"/>
    </g>
   </g>
