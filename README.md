@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="Albi Mudakar | Student | Web Developer | Cloud Computing" src="./header.svg" width="100%" />
+    <img alt="Student | Student | Web Developer | Cloud Computing" src="./header.svg" width="100%" />
   </picture>
 </a>
 
@@ -19,9 +19,6 @@
     </a>
   </div>
 </header>
-
-
-
 
 <details>
 <summary>Stats</summary>
@@ -53,5 +50,3 @@
 📫 How to reach me albimudakar04@gmail.com <br>
 ⚡ Fun facts like sharing experiences and knowledge programming.<br>
 </details>
-
-
