@@ -8,11 +8,11 @@
 
 <header>
   <div align="center">
-    <a href="www.linkedin.com/in/albi-mudakar-nasyabi">
+    <a href="https://www.linkedin.com/in/albi-mudakar-nasyabi/">
       <img alt="My LinkedIn Profile" src="https://img.shields.io/static/v1?color=%237733&label=LinkedIn&message=Albi Mudakar&style=flat&logo=linkedin&logoColor=ffffff&labelColor=186F65">
     </a>
     <a href="https://twitter.com/albimdkr">
-      <img alt="My LinkedIn Profile" src="https://img.shields.io/static/v1?color=%237733&label=Twitter&message=albimdkr&style=flat&logo=Twitter&logoColor=ffffff&labelColor=186F65">
+      <img alt="My Twitter Profile" src="https://img.shields.io/static/v1?color=%237733&label=Twitter&message=albimdkr&style=flat&logo=Twitter&logoColor=ffffff&labelColor=186F65">
     </a>
     <a href="https://g.dev/albimdkr">
       <img alt="My Google Dev Profile" src="https://img.shields.io/static/v1?color=%237733&label=g.dev&message=@albimdkr&style=flat&logo=google&logoColor=ffffff&labelColor=186F65">
@@ -22,6 +22,11 @@
 
 <details>
 <summary>Stats</summary>
+<div align="center">
+  <a href="https://github.com/albimdkr">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=albimdkr&style=flat&color=186F65&label=Profile+Views" />
+  </a>
+</div>
 <div align="center">
 <a href="https://github.com/albimdkr/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albimdkr&show_icons=true&card_width=484&theme=dark&title_color=186F65&icon_color=186F65" />
@@ -50,3 +55,12 @@
 📫 How to reach me albimudakar04@gmail.com <br>
 ⚡ Fun facts like sharing experiences and knowledge programming.<br>
 </details>
+
+<!--
+<div align="center">
+    <a href="https://github.com/albimdkr">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=albimdkr&style=flat&color=186F65&label=Profile+Views" />
+    </a>
+</div>
+ -->
+
